@@ -60,3 +60,4 @@ We will work here to determine what we think we are doing before we expand into 
 - Outward faces interactivity points to a DOMAIN
 - Can assist in accessing MAPS and creating ORCHESTRATIONS for NODES that the ENTITY has permission to access
 - Interface for the credentialing NODE inside the DOMAIN
+- REVERSE DOMAINS could be considered where the credentialing NODE is on the same side of the barrier as the ENTITY. For example, like a digital GEOFENCE that the KIOSK acts as a firewall or restrictor of what an ENTITY can do /beyond/ the KIOSK with ORCHESTRATION requests
