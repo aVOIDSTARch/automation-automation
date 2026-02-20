@@ -60,14 +60,14 @@ We will work here to determine what we think we are doing before we expand into 
 
 ### PARADIGM
 
-- Desription of a meta-DOMAIN with its own NOMENCLATURE or SYNTAX
+- Description of a meta-DOMAIN with its own NOMENCLATURE or SYNTAX
 - Still uses the NODE-ACTION-FIELD structure
 -- PARADIGM allows this architecture to be used in an array of environments while staying with the same conceptual structure
--- The first two PARADIGM designations I would like to decribe would be INTERNET amd REAL_WORLD 
--- Maybe KIOSKS or TERMINALS could represent interfaces between PARADIGMS 
+-- The first two PARADIGM designations I would like to describe would be INTERNET amd REAL_WORLD
+-- Maybe KIOSKS or TERMINALS could represent interfaces between PARADIGMS
 --- An example would be a WiFi router. An ENTITY can transition between PARADIGMS here
 -- PARADIGMS would be functionally similar to DOMAINS but at a higher level in the abstraction tree
--- DOMAINS in a specific PARADIGM all use the same NOMENCLATURE or SYNTAX for example in the INTERNET PARADIGM all NODES are digital assests of some sort where as in the REAL_WORLD PARADIGM they would be interactive LOCATIONS 
+-- DOMAINS in a specific PARADIGM all use the same NOMENCLATURE or SYNTAX for example in the INTERNET PARADIGM all NODES are digital assets of some sort where as in the REAL_WORLD PARADIGM they would be interactive LOCATIONS
 --- As such the LOCATION in the INTERNET PARADIGM would be an IP_ADDRESS or similar and in the REAL_WORLD PARADIGM it would be a street ADDRESS or LAT_LONG pair for GPS
 
 ### KIOSKS or TERMINALS
