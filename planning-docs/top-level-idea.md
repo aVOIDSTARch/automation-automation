@@ -37,8 +37,11 @@ We will work here to determine what we think we are doing before we expand into 
 2. ORCHESTRATIONS
 3. KIOSKS or TERMINALS
 4. DOMAIN
+5. PARADIGM
 
 ### MAPS or SCHEMA
+
+- Must indicate PARADIGM and/or ABSTRACTION level
 
 - Diagrams that indicate where all the locations are within a DOMAIN or NODE and keep a list of links to MAPS for inside of each NODE showing all the ACTIONS and the FIELDS that those ACTIONS can do there work with/to
 - The internal entries should have some sort of access identifier by group or something so when the MAP is accessed it automatically filters the MAP to only show what the ENTITY is allowed to see
@@ -54,6 +57,18 @@ We will work here to determine what we think we are doing before we expand into 
 - An access controlled collection of interconnected NODES
 - No ENTITY can enter the DOMAIN
 - All requests must be done at a KIOSK or TERMINAL
+
+### PARADIGM
+
+- Desription of a meta-DOMAIN with its own NOMENCLATURE or SYNTAX
+- Still uses the NODE-ACTION-FIELD structure
+-- PARADIGM allows this architecture to be used in an array of environments while staying with the same conceptual structure
+-- The first two PARADIGM designations I would like to decribe would be INTERNET amd REAL_WORLD 
+-- Maybe KIOSKS or TERMINALS could represent interfaces between PARADIGMS 
+--- An example would be a WiFi router. An ENTITY can transition between PARADIGMS here
+-- PARADIGMS would be functionally similar to DOMAINS but at a higher level in the abstraction tree
+-- DOMAINS in a specific PARADIGM all use the same NOMENCLATURE or SYNTAX for example in the INTERNET PARADIGM all NODES are digital assests of some sort where as in the REAL_WORLD PARADIGM they would be interactive LOCATIONS 
+--- As such the LOCATION in the INTERNET PARADIGM would be an IP_ADDRESS or similar and in the REAL_WORLD PARADIGM it would be a street ADDRESS or LAT_LONG pair for GPS
 
 ### KIOSKS or TERMINALS
 
