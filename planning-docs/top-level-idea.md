@@ -2,6 +2,13 @@
 
 We will work here to determine what we think we are doing before we expand into depths.
 
+## CONCEPT
+
+- This is my attempt to design a universal markup or language system for mapping resources with a standard structure but paradigm(context) dependant particulars. So, two paradigms are digital like the internet or nay electronic landscape where NODES would APIs or computers or datastores AND the real world would be another where NODES would be a store or a school or a government office. The ACTIONS(what can be done) and RESOURCES(to what) are pretty straight forward. Each NODE would have a SCHEMA that an ENTITY can read and based on their access permission see what is available for ACTIONS and RESOURCES. Internally, the NODE has all the code (in whatever format or language it prefers) to execute the ACTIONS on the RESOURCES when an ENTITY requests something.
+- The use-case is for graph building for any ENTITY (program. user, AI agent etc) to be able to FIND, EXPLORE capabilities of, and UTILIZE resources across any graph mapped physical or theoretical landscape. Ultimately, the impetus to make a resource available to the greater world's ENTITIES in growing exponentially and we need a SIMPLE, ITERABLE, EXPANDABLE, and COMPATIBLE way to represent these things for use.
+- In my mind, it is like a virtual abstraction layer that goes on top of anything that could be interacted with that explains what is there how to get to it and ask it to do something for you.
+- I think robots could use both digital and physical MAPS to navigate the world more easily, it would simplify AI agent access. It could be use in websites and programs to expose agent access points while controlling what the agent can do.
+
 ## THREE CORE OBJECT TYPES
 
 1. NODE
@@ -42,9 +49,9 @@ We will work here to determine what we think we are doing before we expand into 
 ### MAPS or SCHEMA
 
 - Must indicate PARADIGM and/or ABSTRACTION level
-
-- Diagrams that indicate where all the locations are within a DOMAIN or NODE and keep a list of links to MAPS for inside of each NODE showing all the ACTIONS and the FIELDS that those ACTIONS can do there work with/to
-- The internal entries should have some sort of access identifier by group or something so when the MAP is accessed it automatically filters the MAP to only show what the ENTITY is allowed to see
+- MAPS show the "terrain and landmarks" of a DOMAIN and SCHEMAS present the internal information for ONE NODE such as the PERMISSION approved ACTIONS and RESOURCES
+- Diagrams that indicate where all the locations are within a DOMAIN or NODE and keep a list of links to SCHEMAS for inside of each NODE showing all the ACTIONS and the FIELDS that those ACTIONS can do there work with/to
+- The internal entries should have some sort of access identifier by group or something so when the MAP is accessed it automatically filters the SCHEMA to only show what the ENTITY is allowed to see
 -- Maybe the nodes issue encrypted MULTIPASSES with the groups the ENTITY is a part of on an expiring rotation basis
 
 ### ORCHESTRATIONS
